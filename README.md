@@ -101,6 +101,6 @@
 
 <!-- BENTO ROW 4: LIVE GITHUB ANALYTICS CARDS -->
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Harsh-Sharma7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Sharma7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" />
 </div>
